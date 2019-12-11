@@ -3,7 +3,7 @@
 Purpose
 =======
 
-Write me ... example for CodeRefinery
+Write me ...
 
 
 Zipf's law
